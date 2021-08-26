@@ -7,11 +7,7 @@
 - [02-MapReduce计算框架](02-0大数据基础框架/02-MapReduce计算框架.md)
 - [03-Zookeeper](02-0大数据基础框架/03-Zookeeper.md)
 - [04-Hive学习笔记](02-0大数据基础框架/04-Hive学习笔记.md)
-
-
-[06-Kafka](02-0大数据基础框架/06-Kafka.md)
-
-
-[07-Hbase](02-0大数据基础框架/07-Hbase.md)
+- [06-Kafka](02-0大数据基础框架/06-Kafka.md)
+- [07-Hbase](02-0大数据基础框架/07-Hbase.md)
 
 
